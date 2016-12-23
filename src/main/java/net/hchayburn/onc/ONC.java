@@ -1,6 +1,6 @@
-package me.sgerlyn.onc;
+package net.hchayburn.onc;
 
-import me.sgerlyn.onc.listeners.PlayerListener;
+import net.hchayburn.onc.listeners.PlayerListener;
 import org.bukkit.plugin.java.JavaPlugin;
 
 import java.io.BufferedReader;

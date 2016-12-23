@@ -1,6 +1,6 @@
-package me.sgerlyn.onc.listeners;
+package net.hchayburn.onc.listeners;
 
-import me.sgerlyn.onc.ONC;
+import net.hchayburn.onc.ONC;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerJoinEvent;

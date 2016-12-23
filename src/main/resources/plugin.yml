@@ -1,4 +1,4 @@
 name: OldNameChecker
-main: me.sgerlyn.onc.ONC
+main: net.hchayburn.onc.ONC
 version: 1.0
-author: SGerlyn
+author: hchayburn
