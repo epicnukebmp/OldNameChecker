@@ -1,0 +1,4 @@
+name: OldNameChecker
+main: me.sgerlyn.onc.ONC
+version: 1.0
+author: SGerlyn
